@@ -22,8 +22,8 @@ int main() {
     file2 << "Najwieksze: " << endl;
 
         for(int c = 0; c < N; c++) {
-            int length;
             file1 >> length;
+            int length;
             int  = 0;
                 for(int i = 0; i < length; i++) {
                     int number;
